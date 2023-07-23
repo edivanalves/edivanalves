@@ -6,7 +6,7 @@
 - 👦🏽 ELE/DELE
   <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="autor" src="https://github-readme-stats.vercel.app/api?username=edivanalves" />
+  <img height=200 align="auto" src="https://github-readme-stats.vercel.app/api?username=edivanalves" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=edivanalves&layout=compact&langs_count=8&card_width=320" />
