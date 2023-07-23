@@ -1,9 +1,9 @@
 ### Ola: Eu Sou Edivan Alves 🖖🏾
 
-- 🧑🏽‍🔧 Hoje Trabalho Com gestão de TI
-- ☕ Estudo Javascript
-- ✉️ Contate-me no Email: vanalves11@gmail.com
-- 👦🏽 ELE/DELE
+- 🧑🏽‍🔧  Hoje Trabalho Com gestão de TI
+- ☕  Estudo Javascript
+- ✉️  Contate-me no Email: vanalves11@gmail.com
+- 👦🏽  ELE/DELE
   <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="auto" src="https://github-readme-stats.vercel.app/api?username=edivanalves" />
