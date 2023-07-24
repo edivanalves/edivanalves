@@ -1,4 +1,5 @@
-### Ola: Eu Sou Edivan Alves 🖖🏾
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edivan+Alves;Dev+backend+;+:%29)](https://git.io/typing-svg)
 
 - 🧑🏽‍🔧  Hoje Trabalho Com gestão de TI
 - ☕  Estudo Javascript
