@@ -1,10 +1,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edivan+Alves;Dev+backend+;+:%29)](https://git.io/typing-svg)
 
+
+- 👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinado, empenhado, comprometido, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
 - 🧑🏽‍🔧  Hoje Trabalho Com gestão de TI
 - ☕  Estudo Javascript
 - ✉️  Contate-me no Email: vanalves11@gmail.com
-- 👦🏽  ELE/DELE
+    
   <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="auto" src="https://github-readme-stats.vercel.app/api?username=edivanalves" />
