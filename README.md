@@ -6,17 +6,20 @@
 - 🧑🏽‍🔧  Hoje Trabalho Com gestão de TI
 - ☕  Estudo Javascript
 - ✉️  Contate-me no Email: vanalves11@gmail.com
+
+
     
-  <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="auto" src="https://github-readme-stats.vercel.app/api?username=edivanalves" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=edivanalves&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=edivanalves&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 <div style="display: inline_block"><br>
