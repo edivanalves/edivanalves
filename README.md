@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edivan+Alves;Dev+frontend+;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edivan+Alves;DEV+FRONT-END+;+:%29)](https://git.io/typing-svg)
 
 
 
@@ -8,7 +8,7 @@
 <p align="left"> 
 - 👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinado, empenhado, comprometido, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
 - 🧑🏽‍🔧  Hoje Trabalho Com gestão de TI
-- ☕  Estudo Javascript
+- ☕ Estudnde Front End
 - ✉️  Contate-me no Email: vanalves11@gmail.com
 </p>
 
